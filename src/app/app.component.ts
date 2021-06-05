@@ -6,10 +6,6 @@ import { Component } from '@angular/core';
     <!-- header -->
     <app-header></app-header>
 
-    <app-home></app-home>
-
-    <app-contact></app-contact>
-
     <!-- routes get injected here -->
     <router-outlet></router-outlet>
 
