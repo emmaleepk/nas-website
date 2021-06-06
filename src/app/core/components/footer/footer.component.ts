@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
     <footer class="footer">
       <div class="container content has-text-centered">
         <p>Made by Emmalee.</p>
+        <p class="is-hidden">Video tutorial of how to make this website by: Chris on Code on YouTube</p>
       </div>
     </footer>
   `,
